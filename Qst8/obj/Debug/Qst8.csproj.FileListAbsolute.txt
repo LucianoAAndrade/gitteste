@@ -1,0 +1,6 @@
+C:\Users\luciano.andrade\source\repos\Ex1_Qst1\Qst8\bin\Debug\Qst8.exe.config
+C:\Users\luciano.andrade\source\repos\Ex1_Qst1\Qst8\bin\Debug\Qst8.exe
+C:\Users\luciano.andrade\source\repos\Ex1_Qst1\Qst8\bin\Debug\Qst8.pdb
+C:\Users\luciano.andrade\source\repos\Ex1_Qst1\Qst8\obj\Debug\Qst8.csproj.CoreCompileInputs.cache
+C:\Users\luciano.andrade\source\repos\Ex1_Qst1\Qst8\obj\Debug\Qst8.exe
+C:\Users\luciano.andrade\source\repos\Ex1_Qst1\Qst8\obj\Debug\Qst8.pdb

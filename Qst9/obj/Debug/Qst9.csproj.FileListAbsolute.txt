@@ -1,0 +1,7 @@
+C:\Users\luciano.andrade\source\repos\Ex1_Qst1\Qst9\bin\Debug\Qst9.exe.config
+C:\Users\luciano.andrade\source\repos\Ex1_Qst1\Qst9\bin\Debug\Qst9.exe
+C:\Users\luciano.andrade\source\repos\Ex1_Qst1\Qst9\bin\Debug\Qst9.pdb
+C:\Users\luciano.andrade\source\repos\Ex1_Qst1\Qst9\obj\Debug\Qst9.csprojResolveAssemblyReference.cache
+C:\Users\luciano.andrade\source\repos\Ex1_Qst1\Qst9\obj\Debug\Qst9.csproj.CoreCompileInputs.cache
+C:\Users\luciano.andrade\source\repos\Ex1_Qst1\Qst9\obj\Debug\Qst9.exe
+C:\Users\luciano.andrade\source\repos\Ex1_Qst1\Qst9\obj\Debug\Qst9.pdb
